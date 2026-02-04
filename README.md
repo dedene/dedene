@@ -1,12 +1,14 @@
 # Hi, I'm Peter 👋
 
-🇧🇪 Belgium | 🛠️ Digital Artisan | 🎵 Musician | 🚀 AI & Tech Explorer
+Belgium | Digital Artisan | Musician | AI & Tech Explorer
 
 [![Twitter](https://img.shields.io/badge/-@dedene-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/dedene)
 [![Threads](https://img.shields.io/badge/-@dedene-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/@dedene)
 [![LinkedIn](https://img.shields.io/badge/-dedene-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedene)
 
-> 15+ years building meaningful software. Founder & Engineer at [@zenjoy](https://github.com/zenjoy), creator of Nimbu. Passionate about human-centered design and digital creativity.
+> 15+ years building meaningful software. Founder & Engineer at
+> [@zenjoy](https://github.com/zenjoy), creator of Nimbu. Passionate about human-centered design and
+> digital creativity.
 
 ## Current Side-Projects
 
