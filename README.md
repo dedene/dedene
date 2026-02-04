@@ -3,7 +3,7 @@
 I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 
 [![Twitter](https://img.shields.io/badge/-@dedene-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dedene)
-[![Threads](https://img.shields.io/badge/-@dedene-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@dedene)
+[![Threads](https://img.shields.io/badge/-@dedene-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://threads.net/@dedene)
 [![LinkedIn](https://img.shields.io/badge/-dedene-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dedene)
 
 > 15+ years building meaningful software. Founder & Engineer at
