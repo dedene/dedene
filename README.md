@@ -19,4 +19,5 @@ I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 - ⏱️ **[harvest-cli](https://github.com/dedene/harvest-cli)** - Harvest in your terminal
 - 🚃 **[irail-cli](https://github.com/dedene/irail-cli)** - iRail (NMBS/SNCB) in your terminal
 - 🚌 **[delijn-cli](https://github.com/dedene/delijn-cli)** - De Lijn in your terminal
+- 🍓 **[strawpoll-cli](https://github.com/dedene/strawpoll-cli)** - StrawPoll in your terminal
 - 🏦 **[ponto-cli](https://github.com/dedene/ponto-cli)** - Access Ponto from the terminal
