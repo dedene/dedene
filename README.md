@@ -21,4 +21,6 @@ I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 - 🚌 **[delijn-cli](https://github.com/dedene/delijn-cli)** - De Lijn in your terminal
 - 🍓 **[strawpoll-cli](https://github.com/dedene/strawpoll-cli)** - StrawPoll in your terminal
 - 🏦 **[ponto-cli](https://github.com/dedene/ponto-cli)** - Access Ponto from the terminal
+- 📟 **[lametric-cli](https://github.com/dedene/lametric-cli)** - LaMetric in your terminal
+- 🌐 **[realtime-register-cli](https://github.com/dedene/realtime-register-cli)** - RealtimeRegister in your terminal
 - 🔗 **[memelink-cli](https://github.com/dedene/memelink-cli)** - Memes from the terminal
