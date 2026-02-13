@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+# Hi there, I'm Peter 👋
 
 I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 
