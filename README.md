@@ -23,4 +23,5 @@ I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 - 🏦 **[ponto-cli](https://github.com/dedene/ponto-cli)** - Access Ponto from the terminal
 - 📟 **[lametric-cli](https://github.com/dedene/lametric-cli)** - LaMetric in your terminal
 - 🌐 **[realtime-register-cli](https://github.com/dedene/realtime-register-cli)** - RealtimeRegister in your terminal
+- 🌦️ **[kmi-irm-cli](https://github.com/dedene/kmi-irm-cli)** - KMI/IRM (Belgian weather) in your terminal
 - 🔗 **[memelink-cli](https://github.com/dedene/memelink-cli)** - Memes from the terminal
