@@ -14,6 +14,7 @@ I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 
 - 🦞 **[claw-wrap](https://github.com/dedene/claw-wrap)** - Secure credential proxy for OpenClaw
   tools
+- 📝 **[notion-cli](https://github.com/dedene/notion-cli)** - Notion in your terminal
 - 📭 **[frontapp-cli](https://github.com/dedene/frontapp-cli)** - Front in your terminal
 - 🔖 **[raindrop-cli](https://github.com/dedene/raindrop-cli)** - Raindrop in your terminal
 - ⏱️ **[harvest-cli](https://github.com/dedene/harvest-cli)** - Harvest in your terminal
@@ -22,6 +23,8 @@ I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 - 🍓 **[strawpoll-cli](https://github.com/dedene/strawpoll-cli)** - StrawPoll in your terminal
 - 🏦 **[ponto-cli](https://github.com/dedene/ponto-cli)** - Access Ponto from the terminal
 - 📟 **[lametric-cli](https://github.com/dedene/lametric-cli)** - LaMetric in your terminal
-- 🌐 **[realtime-register-cli](https://github.com/dedene/realtime-register-cli)** - RealtimeRegister in your terminal
-- 🌦️ **[kmi-irm-cli](https://github.com/dedene/kmi-irm-cli)** - KMI/IRM (Belgian weather) in your terminal
+- 🌐 **[realtime-register-cli](https://github.com/dedene/realtime-register-cli)** - RealtimeRegister
+  in your terminal
+- 🌦️ **[kmi-irm-cli](https://github.com/dedene/kmi-irm-cli)** - KMI/IRM (Belgian weather) in your
+  terminal
 - 🔗 **[memelink-cli](https://github.com/dedene/memelink-cli)** - Memes from the terminal
