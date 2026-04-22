@@ -12,6 +12,7 @@ I'm from Belgium | Digital Artisan | Musician | AI & Tech Explorer
 
 ## Current Side-Projects
 
+- 💻 **[zentty](https://github.com/dedene/zentty)** - A native macOS terminal for agent-driven development
 - 🦞 **[claw-wrap](https://github.com/dedene/claw-wrap)** - Secure credential proxy for OpenClaw
   tools
 - 📝 **[notion-cli](https://github.com/dedene/notion-cli)** - Notion in your terminal
